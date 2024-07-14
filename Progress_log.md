@@ -32,6 +32,7 @@
 
 2. **Split Data**:
    - Divided the data into training and testing sets.
+   - ![Training Data](https://drive.google.com/drive/folders/1nhHl5erYCdWv7MHCDed1HAT2aG--1iZT?usp=sharing)
 
 3. **Defined the CNN Model**:
    - Built the CNN architecture with convolutional layers, max pooling, dropout, and dense layers.
@@ -53,6 +54,10 @@
 
 1. **Loaded the Trained CNN**:
    - Reconstructed the model architecture and loaded the weights.
+   - ![Testing Data](https://drive.google.com/drive/folders/1Odk-Sbvvv_RrpMOK03HACwhFRcD14XN5?usp=sharing)
 
 2. **Preprocessed Test Images**:
    - Read test images, converted to
+
+
+
