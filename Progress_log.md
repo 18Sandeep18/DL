@@ -32,7 +32,7 @@
 
 2. **Split Data**:
    - Divided the data into training and testing sets.
-   - ![Training Data](https://drive.google.com/drive/folders/1nhHl5erYCdWv7MHCDed1HAT2aG--1iZT?usp=sharing)
+   - [Training Data](https://drive.google.com/drive/folders/1nhHl5erYCdWv7MHCDed1HAT2aG--1iZT?usp=drive_link)
 
 3. **Defined the CNN Model**:
    - Built the CNN architecture with convolutional layers, max pooling, dropout, and dense layers.
