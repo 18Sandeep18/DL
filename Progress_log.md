@@ -54,7 +54,7 @@
 
 1. **Loaded the Trained CNN**:
    - Reconstructed the model architecture and loaded the weights.
-   - ![Testing Data](https://drive.google.com/drive/folders/1Odk-Sbvvv_RrpMOK03HACwhFRcD14XN5?usp=sharing)
+   - ![Testing Data](https://drive.google.com/drive/folders/1Odk-Sbvvv_RrpMOK03HACwhFRcD14XN5?usp=drive_link)
 
 2. **Preprocessed Test Images**:
    - Read test images, converted to
